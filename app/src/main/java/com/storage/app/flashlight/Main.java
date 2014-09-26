@@ -126,6 +126,7 @@ public class Main extends Activity {
         }
     }
 
+    //test
     private void turnOn(){
         if(!_isFlashOn) {
             if(_cam == null || _params == null){
