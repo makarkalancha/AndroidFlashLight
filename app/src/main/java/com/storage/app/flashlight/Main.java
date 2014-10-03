@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import java.io.IOException;
 
-
+//http://stackoverflow.com/questions/6068803/how-to-turn-on-camera-flash-light-programmatically-in-android
 public class Main extends Activity {
     private Context _context;
     private boolean _hasFlash;
